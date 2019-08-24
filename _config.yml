@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "Hiroyuki Makino"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Master of Science in Quantitative Finance and Risk Management. University of Michigan. Israel Diego"
-url                      : "https://MYGITHUB.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Hiroyuki Makino"
+description              : "Master of Science in Quantitative Finance and Risk Management. University of Michigan. Hiroyuki Makino"
+url                      : "https://mhiro.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/MYGITHUB/MYGITHUB.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : https://github.com/mhiro214/mhiro.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 100
